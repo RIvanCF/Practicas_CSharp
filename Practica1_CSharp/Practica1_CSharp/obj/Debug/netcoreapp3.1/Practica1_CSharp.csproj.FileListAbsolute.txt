@@ -1,0 +1,13 @@
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\bin\Debug\netcoreapp3.1\Practica1_CSharp.exe
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\bin\Debug\netcoreapp3.1\Practica1_CSharp.deps.json
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\bin\Debug\netcoreapp3.1\Practica1_CSharp.runtimeconfig.json
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\bin\Debug\netcoreapp3.1\Practica1_CSharp.runtimeconfig.dev.json
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\bin\Debug\netcoreapp3.1\Practica1_CSharp.dll
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\bin\Debug\netcoreapp3.1\Practica1_CSharp.pdb
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\obj\Debug\netcoreapp3.1\Practica1_CSharp.csprojAssemblyReference.cache
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\obj\Debug\netcoreapp3.1\Practica1_CSharp.AssemblyInfoInputs.cache
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\obj\Debug\netcoreapp3.1\Practica1_CSharp.AssemblyInfo.cs
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\obj\Debug\netcoreapp3.1\Practica1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\obj\Debug\netcoreapp3.1\Practica1_CSharp.dll
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\obj\Debug\netcoreapp3.1\Practica1_CSharp.pdb
+C:\Users\ivanc\source\repos\Practica1_CSharp\Practica1_CSharp\obj\Debug\netcoreapp3.1\Practica1_CSharp.genruntimeconfig.cache
